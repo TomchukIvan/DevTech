@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GH\DevTech\bin\Debug\net10.0\DevTech.exe
+C:\Users\User\Desktop\GH\DevTech\bin\Debug\net10.0\DevTech.deps.json
+C:\Users\User\Desktop\GH\DevTech\bin\Debug\net10.0\DevTech.runtimeconfig.json
+C:\Users\User\Desktop\GH\DevTech\bin\Debug\net10.0\DevTech.dll
+C:\Users\User\Desktop\GH\DevTech\bin\Debug\net10.0\DevTech.pdb
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.AssemblyInfo.cs
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.sourcelink.json
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.dll
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\refint\DevTech.dll
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.pdb
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\DevTech.genruntimeconfig.cache
+C:\Users\User\Desktop\GH\DevTech\obj\Debug\net10.0\ref\DevTech.dll
