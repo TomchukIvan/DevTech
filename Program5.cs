@@ -1,3 +1,4 @@
+/*
 Console.WriteLine("ПАНЕЛЬ СОСТАВЛЕНИЯ ДВУХ МАТРИЦ");
 Console.Write("Введите 9 чисел через пробел: ");
 int[] numbers = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
@@ -17,3 +18,4 @@ for (int r = 0; r < 3; r++)
 Console.WriteLine("\n1-матрица: 2-матрица:");
 for (int r = 0; r < 3; r++)
     Console.WriteLine($"{matrix1[r, 0]} {matrix1[r, 1]} {matrix1[r, 2]}     |    {matrix2[r, 0]} {matrix2[r, 1]} {matrix2[r, 2]}");
+*/
